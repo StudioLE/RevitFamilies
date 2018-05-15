@@ -1,5 +1,6 @@
 DWG
 SS
+*.adsklib
 *.csv
 *.[0-9]*.rfa
 *.[0-9]*.rvt
