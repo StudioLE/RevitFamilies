@@ -1,10 +1,28 @@
-# Simple Approved Document M Compliant Revit Families
+# Lightweight Revit Families
 
-Simple, generic, and lightweight Revit Families designed with M4(2) and M4(3) compliance in mind.
+Simple, generic, lightweight, and fully parametric Revit Families designed with M4(2) and M4(3) compliance in mind.
+
+![3D View](https://raw.githubusercontent.com/StudioLE/RevitFamilies/master/Examples/Screenshots/Index%203D.png)
+
+There are an abudance of Revit families available today but these tend to fit into two categories: highly detailed but with large file sizes and resource intensive, or lightweight but inflexible. This repository of families intends to fill the missing niche: high quality but lightweight families that are fully parametric.
 
 By using only basic geometry we ensure the file sizes remain low, while still providing an indicative design when viewed in plan, section, and elevation.
 
-Dimensions for each element have been taken from the Appendix D Furniture Schedule of Approved Document M, as such they're ideal for proving compliance with Building Regulations.
+![Plan View](https://raw.githubusercontent.com/StudioLE/RevitFamilies/master/Examples/Screenshots/Index%20Plan%2001.png)
+
+Each family is fully parametric, that means, for example, that instead of having five different families for different table sizes and chair layouts we have just a single family and the quantity and positioning of the chairs is controlled through parameters.
+
+![Table Example](https://raw.githubusercontent.com/StudioLE/RevitFamilies/master/Examples/Screenshots/Table%20Example%2002.gif)
+
+This adds a fantastic amount of adjustability to the families, if say you would like to illustrate the difference in size of a table with its chairs drawn out compared to tucked in this can easily be shown by adjusting a single parameter.
+
+![Table Example](https://raw.githubusercontent.com/StudioLE/RevitFamilies/master/Examples/Screenshots/Table%20Example%2001.gif)
+
+Another niche these families intend to fill is that of standardised sizing. Instead of using estimated sizes we have drawn dimensions from the Appendix D Furniture Schedule of Approved Document M, as such they're ideal for proving compliance with Building Regulations.
+
+Finally, you'll find families that are commonly used together combined into Layout Families. Therefore, instead of laboriously placing a sofa, a coffee table, TV, and media unit individually into each room you design you can just place the Lounge Layout family and flip between the different arrangements to find the one that suits the room.
+
+![Lounge Layout Example](https://raw.githubusercontent.com/StudioLE/RevitFamilies/master/Examples/Screenshots/Lounge%20Layout%20Example%2001.gif)
 
 ## Families
 
