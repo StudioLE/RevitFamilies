@@ -68,6 +68,7 @@ Finally, you'll find families that are commonly used together combined into Layo
 | LE Sofa: 3 |  |
 | LE Storage | 1200x600mm Double Wardrobe |
 | LE Storage | 1800x600mm Large Wardobe |
+| LE Storage | 400x400mm Bedside Table |
 | LE Storage | 450x450mm Occasional Table |
 | LE Storage | 750x450mm Chest of Drawers |
 | LE Storage | 1050x500mm Coffee Table |
