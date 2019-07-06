@@ -4,7 +4,7 @@ Simple, generic, lightweight, and fully parametric Revit Families designed with 
 
 ![3D View](https://raw.githubusercontent.com/StudioLE/RevitFamilies/master/Examples/Screenshots/Index%203D.png)
 
-There are an abudance of Revit families available today but these tend to fit into two categories: highly detailed but with large file sizes and resource intensive, or lightweight but inflexible. This repository of families intends to fill the missing niche: high quality but lightweight families that are fully parametric.
+There are an abundance of Revit families available today but these tend to fit into two categories: highly detailed but with large file sizes and resource intensive, or lightweight but inflexible. This repository of families intends to fill the missing niche: high quality but lightweight families that are fully parametric.
 
 By using only basic geometry we ensure the file sizes remain low, while still providing an indicative design when viewed in plan, section, and elevation.
 
