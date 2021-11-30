@@ -106,7 +106,7 @@ Finally, you'll find families that are commonly used together combined into Layo
 
 ## Download
 
-Families can either be downloaded individually or as a [zip archive of the full repository](https://github.com/StudioLE/RevitFamilies/archive/master.zip)
+Families can either be downloaded individually or as a [zip archive of the full repository](https://github.com/StudioLE/RevitFamilies/archive/refs/heads/main.zip)
 
 ## Contributing
 
